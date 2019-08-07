@@ -37,6 +37,14 @@ text-decoration: none;
 font-size: 15px;
 }
 
+.buttons{
+    background-color: #ccc;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    padding: 12px;
+}
+
 /* Navbar links on mouse-over */
 .navbar a:hover {
 background-color: lightgrey;
